@@ -1,0 +1,8 @@
+{
+    "module_name": "KeyPeek Layer Notify",
+    "maintainer": "srwi",
+    "license": "GPL-2.0-or-later",
+    "features": {
+        "raw_hid": true
+    }
+}
